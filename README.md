@@ -1,8 +1,6 @@
 # DeltaJobs (Laravel)
 
-DeltaJobs is a job listing website built with Laravel 11. This is the main project for 3MTT knowleadge Showcase.
-
-Web Link - https://www.devsamuel.com
+DeltaJobs is a job listing website built with Laravel 11. This is the main project for the 3MTT Hackathon knowledge Showcase.
 
 <img src="./public/images/screen.png" alt="" />
 
