@@ -1,8 +1,8 @@
-# Workopia (Laravel)
+# DeltaJobs (Laravel)
 
-Workopia is a job listing website built with Laravel 11. This is the main project from my Laravel From Scratch course.
+DeltaJobs is a job listing website built with Laravel 11. This is the main project for 3MTT knowleadge Showcase.
 
-Course Link - https://www.traversymedia.com/laravel-from-scratch
+Web Link - https://www.devsamuel.com
 
 <img src="./public/images/screen.png" alt="" />
 
